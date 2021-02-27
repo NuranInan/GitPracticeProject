@@ -7,6 +7,8 @@ public class Class1 {
     System.out.println("Hello World! Life is good!!");
  
     int num = 7;
+    double n = 2.1;
+    String string="Okay";
 	}
 
 }
